@@ -12,10 +12,10 @@
 **Configuring Git**:
 1. Download Git from the link given above.
 2. Configure Git:
-    git config --global user.name "Name"
-    git config --global user.email "Your E-Mail Address"
+git config --global user.name "Name"
+git config --global user.email "Your E-Mail Address"
     
-    Create a directory where you want your source code to be stored
+Create a directory where you want your source code to be stored
     Initialize the Git repository to point to that directory
         cd <directory>
         git init
