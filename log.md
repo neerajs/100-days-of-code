@@ -11,7 +11,7 @@
 
 **Configuring Git**:
 1. Download Git from the link given above.
-2. Configure Git . git config --global user.name "Name" . git config --global user.email "Your E-Mail Address"
+2. Configure Git: **Name** git config --global user.name "Name" . **E-Mail** git config --global user.email "Your E-Mail Address"
     
 Create a directory where you want your source code to be stored
 Initialize the Git repository to point to that directory
