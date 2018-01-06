@@ -16,8 +16,9 @@
   - git config --global user.name "Name"
   - git config --global user.email "Your E-Mail Address"
     
-Create a directory where you want your source code to be stored. Initialize the Git repository to point to that directory
-*Local Directory*: cd <directory>; git init
+Create a directory where you want your source code to be stored. Initialize the Git repository to point to that directory.
+  - cd <directory>
+  - git init
   
 **Thoughts**: Progress has been slow. Plan to explore bootstrap framework and then ReactJS.
 
