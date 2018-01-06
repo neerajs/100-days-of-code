@@ -7,7 +7,7 @@
 2. Setup my Git repository
 
 **Key Links**:  
--Git: https://git-scm.com/
+                Git: https://git-scm.com/
 -Git Help: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 **Configuring Git**:
