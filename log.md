@@ -6,8 +6,8 @@
 1. Reviewed Git and GitHub Video: https://www.youtube.com/watch?v=Z9fIBT2NBGY
 2. Setup my Git repository
 
-**Key Links**:
-Git: https://git-scm.com/
+**Key Links**:  
+  Git: https://git-scm.com/
 
 **Configuring Git**:
 1. Download Git from the link given above.
