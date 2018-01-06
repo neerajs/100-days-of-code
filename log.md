@@ -8,6 +8,7 @@
 
 **Key Links**:  
   Git: https://git-scm.com/
+  Git Help: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 **Configuring Git**:
 1. Download Git from the link given above.
