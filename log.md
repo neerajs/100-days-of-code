@@ -11,7 +11,7 @@
 
 **Configuring Git**:
 1. Download Git from the link given above.
-2. Configure Git. 
+2. Configure Git
   git config --global user.name "Name"
   git config --global user.email "Your E-Mail Address"
     
