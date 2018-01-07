@@ -23,7 +23,7 @@ Create a directory where you want your source code to be stored. Initialize the 
  
 **Commonly used Git Commads**
   - git status
-  - git add <file that has been modified>
+  - git add \<file that has been modified>\
   - git commit --message "message why the code was changed"
  
 **Thoughts**: Plan to explore bootstrap framework and then ReactJS.
