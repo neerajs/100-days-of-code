@@ -26,7 +26,8 @@ Create a directory where you want your source code to be stored. Initialize the 
   - git add \<file that has been modified>
   - git commit --message "message why the code was changed" OR git commit -m "message why the code was changed"
   - git diff \<filename> - shows what changed in the file since last commit
-  - git log - shows log of commits.
+  - git log - shows log of commits
+  - git branch test-page : Create a new branch
  
 **Thoughts**: Plan to explore bootstrap framework and then ReactJS.
 
