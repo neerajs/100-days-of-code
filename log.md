@@ -18,7 +18,7 @@
   - git config --global user.email "Your E-Mail Address"
     
 Create a directory where you want your source code to be stored. Initialize the Git repository to point to that directory.
-  - cd <directory>
+  - cd \<directory>
   - git init
  
 **Commonly used Git Commads**
