@@ -4,11 +4,12 @@
 
 **Today's Progress**: 
 1. Reviewed Git and GitHub Video: https://www.youtube.com/watch?v=Z9fIBT2NBGY
-2. Setup my Git repository
+2. Setup Git repository
+3. Downloaded Sublime and watched a video on Sublime: https://www.youtube.com/watch?v=SVkR1ZkNusI
 
 **Key Links**:
   - Git: https://git-scm.com/
-  - Git Help: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+  - Git Syntax: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 **Configuring Git**:
 1. Download Git from the link given above.
