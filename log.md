@@ -25,6 +25,7 @@ Create a directory where you want your source code to be stored. Initialize the 
   - git status
   - git add \<file that has been modified>
   - git commit --message "message why the code was changed"
+  - git diff \<filename> - shows what changed in the file since last commit
  
 **Thoughts**: Plan to explore bootstrap framework and then ReactJS.
 
