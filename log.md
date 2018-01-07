@@ -20,7 +20,10 @@
 Create a directory where you want your source code to be stored. Initialize the Git repository to point to that directory.
   - cd <directory>
   - git init
-  
-**Thoughts**: Progress has been slow. Plan to explore bootstrap framework and then ReactJS.
+ 
+** Commonly used Git Commads**
+  - git status
+ 
+**Thoughts**: Plan to explore bootstrap framework and then ReactJS.
 
 **Links(s) to work:** https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
