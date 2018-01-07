@@ -29,6 +29,11 @@ Create a directory where you want your source code to be stored. Initialize the 
   
   - git log - shows log of commits
   - git branch \<branch name>: Create a new branch
+  
+  **Working with remote**
+  - git remote add \<local repository> <git project URL on remote>
+  - git push \<remote> \<branch> : Push your code to remote repository
+  - git pull \<remote> \<branch> : Pull code from remote repository
  
 **Thoughts**: Plan to explore bootstrap framework and then ReactJS.
 
