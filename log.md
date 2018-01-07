@@ -34,8 +34,11 @@ Create a directory where you want your source code to be stored. Initialize the 
   
  ### Day 2: Jan 7, 2018
  **Working with remote**
-  - git remote add \<local repository> \<git project URL on remote>
-  - git push \<remote> \<branch> : Push your code to remote repository
+  - git remote -v : See the status of what is stored on the remote repository
+  - git remote add \<local repository> \<git project URL on remote>. For example
+    - git remote add origin https://github.com/neerajs/git-101.git
+    
+  - git push \<remote> \<branch> : Push your code to remote repository. For example: git push -u origin master
   - git pull \<remote> \<branch> : Pull code from remote repository
 
 
