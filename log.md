@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+**Links(s) to work:** https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
+
 ### Day 1: Jan 6, 2018
 
 **Today's Progress**: 
@@ -30,11 +32,10 @@ Create a directory where you want your source code to be stored. Initialize the 
   - git log - shows log of commits
   - git branch \<branch name>: Create a new branch
   
-  **Working with remote**
+ ### Day 2: Jan 7, 2018
+ **Working with remote**
   - git remote add \<local repository> <git project URL on remote>
   - git push \<remote> \<branch> : Push your code to remote repository
   - git pull \<remote> \<branch> : Pull code from remote repository
- 
-**Thoughts**: Plan to explore bootstrap framework and then ReactJS.
 
-**Links(s) to work:** https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
+
