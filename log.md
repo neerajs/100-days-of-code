@@ -34,7 +34,7 @@ Create a directory where you want your source code to be stored. Initialize the 
   
  ### Day 2: Jan 7, 2018
  **Working with remote**
-  - git remote add \<local repository> <git project URL on remote>
+  - git remote add \<local repository> \<git project URL on remote>
   - git push \<remote> \<branch> : Push your code to remote repository
   - git pull \<remote> \<branch> : Pull code from remote repository
 
