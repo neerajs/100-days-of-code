@@ -41,4 +41,4 @@ Create a directory where you want your source code to be stored. Initialize the 
   - git push \<remote> \<branch> : Push your code to remote repository. For example: git push -u origin master
   - git pull \<remote> \<branch> : Pull code from remote repository
 
-
+### Day 3: Jan 27, 2018
