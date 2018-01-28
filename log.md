@@ -53,7 +53,7 @@ Here's an example CSS class declaration:
   </style>
 
 **Using Inline classes**
-<h2 class="blue-text">
-  CatPhotoApp
-</h2>
+  <h2 class="blue-text">
+    CatPhotoApp
+  </h2>
 
