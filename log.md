@@ -55,4 +55,3 @@ Using Inline classes
   CatPhotoApp
 \</h2>
 
-
