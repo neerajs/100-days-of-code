@@ -44,16 +44,15 @@ Create a directory where you want your source code to be stored. Initialize the 
 ### Day 3: Jan 27, 2018
 *** CSS ***
 Here's an example CSS class declaration:
-
-<style>
+\<style>
   .blue-text {
     color: blue;
   }
-</style>
+\</style>
 
 Using Inline classes
-<h2 class="blue-text">
+\<h2 class="blue-text">
   CatPhotoApp
-</h2>
+\</h2>
 
 
