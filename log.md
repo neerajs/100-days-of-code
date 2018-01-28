@@ -48,6 +48,9 @@ Here's an example CSS class declaration:
   .blue-text {
     color: blue;
   }
+  <p>
+  font-size:16px
+  </p>
 \</style>
 
 Using Inline classes
