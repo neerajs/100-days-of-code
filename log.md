@@ -44,14 +44,11 @@ Create a directory where you want your source code to be stored. Initialize the 
 ### Day 3: Jan 27, 2018
 *** CSS ***
 Here's an example CSS class declaration:
- \<style>
-   .blue-text {
-   color: blue;
-     }
+<style>
+  .blue-text { color: blue;
+  }
   
-  p
-  {
-    font-size:16px
+  p { font-size:16px
   }
 \</style>
 
