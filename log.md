@@ -45,9 +45,9 @@ Create a directory where you want your source code to be stored. Initialize the 
 *** CSS ***
 Here's an example CSS class declaration:
  \<style>
-  .blue-text {
-    color: blue;
-    }
+   .blue-text {
+   color: blue;
+     }
   
   p
   {
